@@ -11,7 +11,7 @@
   Para rodar o programa, voce precisará ter o Python 3.* instalado alem disso, voce precisará fazer a instalação de algumas bibliotecas no sistema.
 </p>
 <p>
-  Abrir terminal ou cmd e digitar ' pip install + <strong>"nome da biblioteca"</strong>. Segue abaixo a lista das bibliotecas que são necessárias.
+  Abrir terminal ou cmd e digitar ' pip install + <strong>"nome da biblioteca"</strong>. Segue abaixo a lista das bibliotecas que são necessárias..
 </p>
 
 * selenium
