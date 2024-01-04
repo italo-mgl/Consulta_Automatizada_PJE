@@ -109,3 +109,4 @@ for processos in processos:
         driver.close()
         sleep(5)
         driver.switch_to.window(driver.window_handles[0])
+        
