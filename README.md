@@ -12,7 +12,7 @@
 </p>
 <p>
   Abrir terminal ou cmd e digitar ' pip install + <strong>"nome da biblioteca"</strong>. Segue abaixo a lista das bibliotecas que são necessárias.
-</p></p>
+</p>
 
 
 * selenium
