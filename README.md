@@ -1,8 +1,6 @@
 # Consulta_Automatizada_PJE
 
 <h3>Programa criado para realizar a consulta automatica de processos referentes a OAB de advogados no site do PJE - Processo Judicial Eletrônico</h3>
-<h3>Programa criado para realizar a consulta automatica de processos referentes a OAB de advogados no site do PJE - Processo Judicial Eletrônico</h3>
-
 
 #### Como funciona o programa ?
 
